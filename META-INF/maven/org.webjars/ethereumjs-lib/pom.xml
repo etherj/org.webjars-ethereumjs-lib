@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <parent>
+        <groupId>org.sonatype.oss</groupId>
+        <artifactId>oss-parent</artifactId>
+        <version>7</version>
+    </parent>
+
+    <packaging>jar</packaging>
+    <groupId>org.webjars</groupId>
+    <artifactId>ethereumjs-lib</artifactId>
+    <version>poc-8-wip</version>
+    <name>ethereumjs-lib</name>
+    <description>WebJar for ethereumjs-lib</description>
+    <url>http://webjars.org</url>
+
+    <developers>
+        <developer>
+            <id>cbeams</id>
+            <name>Chris Beams</name>
+            <email>chris@beams.io</email>
+        </developer>
+    </developers>
+
+    <licenses>
+        <license>
+            <name>Unknown</name>
+            <url>https://github.com/ethereum/ethereumjs-lib</url>
+            <distribution>repo</distribution>
+        </license>
+    </licenses>
+</project>
