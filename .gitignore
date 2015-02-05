@@ -2,3 +2,5 @@
 /.idea
 /*.iml
 *.jar
+
+node_modules
