@@ -7,7 +7,8 @@
     "ethereumjs-lib": "git+https://github.com/ethereum/ethereumjs-lib#develop",
     "ethereumjs-util": "0.0.5",
     "minify": "^1.4.8",
-    "sha3": "^1.1.0"
+    "sha3": "^1.1.0",
+    "uglify-js": "^2.4.16"
   },
   "devDependencies": {}
 }
